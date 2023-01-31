@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/989268395302223913/1070068837891981402/5.png">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 
