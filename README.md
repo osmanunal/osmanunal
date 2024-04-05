@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osman Unal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanunal&label=Profile%20views&color=0e75b6&style=flat" alt="osmanunal" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/989268395302223913/1070068837891981402/5.png">
+<img align="right" alt="Coding" width="400" src="https://dwglogo.com/wp-content/uploads/2017/08/muscles-clipart-ghoper.gif">
 
 </p>
 
